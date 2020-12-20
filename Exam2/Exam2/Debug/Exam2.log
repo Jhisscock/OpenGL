@@ -1,0 +1,4 @@
+﻿  Exam2.cpp
+H:\OpenGL\Exam2\Exam2\Exam2.cpp(65,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+H:\OpenGL\Exam2\Exam2\Exam2.cpp(57): warning C4172: returning address of local variable or temporary: normal
+  Exam2.vcxproj -> H:\OpenGL\Exam2\Debug\Exam2.exe

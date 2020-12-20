@@ -1,0 +1,68 @@
+﻿  Camera.cpp
+H:\OpenGL\Homework5\Homework5\Camera.cpp(38,15): error C2653: 'Camera': is not a class or namespace name
+H:\OpenGL\Homework5\Homework5\Camera.cpp(38,16): error C2065: 'KEYBOARD': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(38,25): error C2146: syntax error: missing ')' before identifier 'p_keyboard'
+H:\OpenGL\Homework5\Homework5\Camera.cpp(39,14): error C2065: 'p_keyboard': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(39,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(40,7): error C2065: 'p_X': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(40,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(41,7): error C2065: 'p_Y': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(41,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(42,7): error C2065: 'p_Z': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(42,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(43,13): error C2065: 'p_window_width': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(43,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(44,13): error C2065: 'p_window_height': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(44,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(45,9): error C2065: 'p_psi': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(45,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(46,11): error C2065: 'p_theta': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(46,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(47,20): error C2065: 'p_rotation_speed': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(47,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(48,23): error C2065: 'p_translation_speed': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(48,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(49,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+H:\OpenGL\Homework5\Homework5\Camera.cpp(49,13): error C2448: 'time': function-style initializer appears to be a function definition
+H:\OpenGL\Homework5\Homework5\Camera.cpp(73,22): error C2653: 'Camera': is not a class or namespace name
+H:\OpenGL\Homework5\Homework5\Camera.cpp(77,23): error C2065: 'M_PI': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(77,40): error C2065: 'M_PI': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(87,25): error C2653: 'Camera': is not a class or namespace name
+H:\OpenGL\Homework5\Homework5\Camera.cpp(90,8): error C2065: 'keys': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(90,13): error C2065: 'key_map': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(90,21): error C2065: 'FORWARD': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(91,14): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(91,25): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(92,14): error C3861: 'cos': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(93,14): error C3861: 'cos': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(93,25): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(95,8): error C2065: 'keys': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(95,13): error C2065: 'key_map': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(95,21): error C2065: 'BACKWARD': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(96,14): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(96,25): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(97,14): error C3861: 'cos': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(98,14): error C3861: 'cos': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(98,25): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(100,8): error C2065: 'keys': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(100,13): error C2065: 'key_map': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(100,21): error C2065: 'LEFT': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(101,26): error C2065: 'M_PI': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(101,14): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(101,34): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(102,26): error C2065: 'M_PI': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(102,14): error C3861: 'cos': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(102,34): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(104,8): error C2065: 'keys': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(104,13): error C2065: 'key_map': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(104,21): error C2065: 'RIGHT': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(105,26): error C2065: 'M_PI': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(105,14): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(105,34): error C3861: 'sin': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(106,26): error C2065: 'M_PI': undeclared identifier
+H:\OpenGL\Homework5\Homework5\Camera.cpp(106,14): error C3861: 'cos': identifier not found
+H:\OpenGL\Homework5\Homework5\Camera.cpp(106,34): error C3861: 'sin': identifier not found
+  Homework5.cpp
+H:\OpenGL\Homework5\Homework5\Homework5.cpp(63,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  Generating Code...
+H:\OpenGL\Homework5\Homework5\Homework5.cpp(55): warning C4172: returning address of local variable or temporary: normal
